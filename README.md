@@ -4,6 +4,20 @@ A collection of movie lists from [MDBList](https://mdblist.com).
 
 ---
 
+## Categories
+
+- [General](#general)
+- [Standard Genres](#standard-genres)
+- [Microgenres](#microgenres)
+- [Locations](#locations)
+- [Seasonal & Holiday Movies](#seasonal--holiday-movies)
+- [Actors](#actors)
+- [Directors](#directors)
+- [Studios](#studios)
+- [Streaming Services](#streaming-services)
+
+---
+
 ## General
 
 | Title                        | MDBList Link                                                                  |
@@ -168,13 +182,13 @@ A collection of movie lists from [MDBList](https://mdblist.com).
 
 ## Locations
 
-| Location      | MDBList Link                                         |
-| ------------- | --------------------------------------------------------------- |
-| Australia     | [Link](https://mdblist.com/lists/tvdown/australia-movies-all)   |
-| Chicago       | [Link](https://mdblist.com/lists/slugfest201/chicago)           |
-| Los Angeles   | [Link](https://mdblist.com/lists/oldmankestis/los-angeles)      |
-| New York      | [Link](https://mdblist.com/lists/oldmankestis/new-york)         |
-| New Zealand   | [Link](https://mdblist.com/lists/tvdown/new-zealand-all-movies) |
+| Location    | MDBList Link                                                    |
+| ----------- | --------------------------------------------------------------- |
+| Australia   | [Link](https://mdblist.com/lists/tvdown/australia-movies-all)   |
+| Chicago     | [Link](https://mdblist.com/lists/slugfest201/chicago)           |
+| Los Angeles | [Link](https://mdblist.com/lists/oldmankestis/los-angeles)      |
+| New York    | [Link](https://mdblist.com/lists/oldmankestis/new-york)         |
+| New Zealand | [Link](https://mdblist.com/lists/tvdown/new-zealand-all-movies) |
 
 ## Seasonal & Holiday Movies
 
