@@ -157,8 +157,6 @@ A collection of movie lists from [MDBList](https://mdblist.com).
 | Martial Arts                      | [Link](https://mdblist.com/lists/k0meta/martial-arts)                            |
 | Hallmark                          | [Link](https://mdblist.com/lists/SynAcksHM/hallmark)                             |
 | Dog Movies                        | [Link](https://mdblist.com/lists/rizreflects/dog-movies)                         |
-| Made In New Zealand               | [Link](https://mdblist.com/lists/tvdown/new-zealand-all-movies)                  |
-| Made In Australia                 | [Link](https://mdblist.com/lists/tvdown/australia-movies-all)                    |
 | Bollywood                         | [Link](https://mdblist.com/lists/rizreflects/bollywood-movies)                   |
 | Courtroom Dramas                  | [Link](https://mdblist.com/lists/rizreflects/courtroom-dramas)                   |
 | Dialogue-Driven                   | [Link](https://mdblist.com/lists/rizreflects/dialogue-driven)                    |
@@ -167,6 +165,16 @@ A collection of movie lists from [MDBList](https://mdblist.com).
 | B-Movies                          | [Link](https://mdblist.com/lists/siskourso/b-movies)                             |
 | Low Budget Movies                 | [Link](https://mdblist.com/lists/nathyg99/low-budget-movies)                     |
 | Movies That Take Place in One Day | [Link](https://mdblist.com/lists/awesomeaustn/movies-that-take-place-in-one-day) |
+
+## Locations
+
+| Location      | MDBList Link                                         |
+| ------------- | --------------------------------------------------------------- |
+| Australia     | [Link](https://mdblist.com/lists/tvdown/australia-movies-all)   |
+| Chicago       | [Link](https://mdblist.com/lists/slugfest201/chicago)           |
+| Los Angeles   | [Link](https://mdblist.com/lists/oldmankestis/los-angeles)      |
+| New York      | [Link](https://mdblist.com/lists/oldmankestis/new-york)         |
+| New Zealand   | [Link](https://mdblist.com/lists/tvdown/new-zealand-all-movies) |
 
 ## Seasonal & Holiday Movies
 
