@@ -181,6 +181,62 @@ A collection of movie lists from [MDBList](https://mdblist.com).
 
 ---
 
+## Actors
+
+| Name                   | MDBList Link                                                           |
+| ---------------------- | ---------------------------------------------------------------------- |
+| Al Pacino              | [Link](https://mdblist.com/lists/mokono/al-pacino)                     |
+| Angelina Jolie         | [Link](https://mdblist.com/lists/cyberpoison/angelina-jolie-movies)    |
+| Anne Hathaway          | [Link](https://mdblist.com/lists/ethangd/anne-hathaway)                |
+| Anthony Hopkins        | [Link](https://mdblist.com/lists/mokono/anthony-hopkins)               |
+| Bill Murray            | [Link](https://mdblist.com/lists/mokono/bill-murray)                   |
+| Brad Pitt              | [Link](https://mdblist.com/lists/mokono/brad-pitt)                     |
+| Bruce Willis           | [Link](https://mdblist.com/lists/mokono/bruce-willis)                  |
+| Christian Bale         | [Link](https://mdblist.com/lists/mokono/christian-bale)                |
+| Christopher Walken     | [Link](https://mdblist.com/lists/mokono/chistopher-walken)             |
+| Clint Eastwood         | [Link](https://mdblist.com/lists/mokono/clint-eastwood)                |
+| Denzel Washington      | [Link](https://mdblist.com/lists/mokono/denzel-washington)             |
+| Edward Norton          | [Link](https://mdblist.com/lists/mokono/edward-norton)                 |
+| Gene Hackman           | [Link](https://mdblist.com/lists/mokono/gene-hackman)                  |
+| Heath Ledger           | [Link](https://mdblist.com/lists/mokono/heath-ledger)                  |
+| Hugh Jackman           | [Link](https://mdblist.com/lists/mokono/hugh-jackman)                  |
+| Jack Nicholson         | [Link](https://mdblist.com/lists/mokono/jack-nicholson)                |
+| Jackie Chan            | [Link](https://mdblist.com/lists/ethangd/jackie-chan)                  |
+| James Stewart          | [Link](https://mdblist.com/lists/mokono/james-stewart)                 |
+| Jeff Bridges           | [Link](https://mdblist.com/lists/mokono/jeff-bridges)                  |
+| Jim Carrey             | [Link](https://mdblist.com/lists/mokono/jim-carrey)                    |
+| Joaquin Phoenix        | [Link](https://mdblist.com/lists/mokono/joaquin-phoenix)               |
+| Joe Pesci              | [Link](https://mdblist.com/lists/mokono/joe-pesci)                     |
+| John Goodman           | [Link](https://mdblist.com/lists/mokono/john-goodman)                  |
+| Johnny Depp            | [Link](https://mdblist.com/lists/mokono/johnny-depp)                   |
+| Jon Voight             | [Link](https://mdblist.com/lists/mokono/jon-voight)                    |
+| Keanu Reaves           | [Link](https://mdblist.com/lists/jimcampbell/keanu-reaves)             |
+| Kevin Spacey           | [Link](https://mdblist.com/lists/mokono/kevin-spacey)                  |
+| Laurence FishBurn      | [Link](https://mdblist.com/lists/cyberpoison/laurence-fishburn-movies) |
+| Leonardo Dicaprio      | [Link](https://mdblist.com/lists/mokono/leonardo-dicaprio-movies)      |
+| Liam Neeson            | [Link](https://mdblist.com/lists/mokono/liam-neeson)                   |
+| Mark Wahlberg          | [Link](https://mdblist.com/lists/mokono/mark-wahlberg)                 |
+| Matt Damon             | [Link](https://mdblist.com/lists/mokono/matt-damon)                    |
+| Matthew McConaughey    | [Link](https://mdblist.com/lists/mokono/matthew-mcconaughey)           |
+| Mel Gibson             | [Link](https://mdblist.com/lists/mokono/mel-gibson)                    |
+| Michael Caine          | [Link](https://mdblist.com/lists/mokono/michael-caine)                 |
+| Morgan Freeman         | [Link](https://mdblist.com/lists/mokono/morgan-freeman)                |
+| Natalie Portman        | [Link](https://mdblist.com/lists/reachingout/natalie-portman-month)    |
+| Philip Seymour Hoffman | [Link](https://mdblist.com/lists/mokono/philip-seymour-hoffman)        |
+| Robert De Niro         | [Link](https://mdblist.com/lists/mokono/robert-de-niro)                |
+| Robert Downey Jr       | [Link](https://mdblist.com/lists/mokono/robert-downey-jr)              |
+| Robert Duvall          | [Link](https://mdblist.com/lists/mokono/robert-duvall)                 |
+| Robin Williams         | [Link](https://mdblist.com/lists/mokono/robin-williams)                |
+| Russell Crowe          | [Link](https://mdblist.com/lists/mokono/russell-crowe)                 |
+| Samuel L Jackson       | [Link](https://mdblist.com/lists/mokono/samuel-l-jackson)              |
+| Sean Connery           | [Link](https://mdblist.com/lists/mokono/sean-connery)                  |
+| Tom Cruise             | [Link](https://mdblist.com/lists/jimcampbell/tom-cruise)               |
+| Tom Hanks              | [Link](https://mdblist.com/lists/mokono/tom-hanks)                     |
+| Tommy Lee Jones        | [Link](https://mdblist.com/lists/mokono/tommy-lee-jones)               |
+| Will Smith             | [Link](https://mdblist.com/lists/mokono/will-smith)                    |
+
+---
+
 ## Directors
 
 | Name                 | MDBList Link                                                                     |
