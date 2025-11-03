@@ -25,13 +25,14 @@ A collection of movie lists from [MDBList](https://mdblist.com).
 | Latest Releases              | [Link](https://mdblist.com/lists/linaspurinis/latest-releases)                |
 | Weekly Top Watched           | [Link](https://mdblist.com/lists/linaspurinis/top-watched-movies-of-the-week) |
 | Most Popular Movies [top-20] | [Link](https://mdblist.com/lists/linaspurinis/most-popular-movies-top-20)     |
-| Top Movies                   | [Link](https://mdblist.com/lists/garycrawfordgc/top-movies)                   |
-| Top Classic Movies           | [Link](https://mdblist.com/lists/tvgeniekodi/vintage-classics)                |
+| Top Rated Movies             | [Link](https://mdblist.com/lists/garycrawfordgc/top-movies)                   |
+| Top Rated Classic Movies     | [Link](https://mdblist.com/lists/tvgeniekodi/vintage-classics)                |
 | Top 1980s Movies             | [Link](https://mdblist.com/lists/tvgeniekodi/top-1980s-movies)                |
 | Top 1990s Movies             | [Link](https://mdblist.com/lists/tvgeniekodi/top-1990s-movies)                |
 | Top 2000s Movies             | [Link](https://mdblist.com/lists/tvgeniekodi/top-2000s-movies)                |
 | Top 2010s Movies             | [Link](https://mdblist.com/lists/tvgeniekodi/top-2010s-movies)                |
 | Top 2020s Movies             | [Link](https://mdblist.com/lists/tvgeniekodi/top-2020s-movies)                |
+| Highest Grossing of All Time | [Link](https://mdblist.com/lists/mathias_101/highest-grossing-of-all-time)    |
 | Criterion Collection         | [Link](https://mdblist.com/lists/pizzadeath/the-criterion-collection)         |
 | 100% on RottenTomatoes.com   | [Link](https://mdblist.com/lists/hdlists/100-on-rottentomatoes-com)           |
 
@@ -79,18 +80,94 @@ A collection of movie lists from [MDBList](https://mdblist.com).
 
 ## Microgenres
 
+### Action Subgenres
+
+| Microgenre        | MDBList Link                                                            |
+| ----------------- | ----------------------------------------------------------------------- |
+| Heist Movies      | [Link](https://mdblist.com/lists/hdlists/best-heist-movies-of-all-time) |
+| Martial Arts      | [Link](https://mdblist.com/lists/k0meta/martial-arts)                   |
+| One Person Army   | [Link](https://mdblist.com/lists/rizreflects/one-person-army)           |
+| Spaghetti-Western | [Link](https://mdblist.com/lists/nconnor/spaghetti-western)             |
+
+### Aesthetic
+
+| Microgenre        | MDBList Link                                                      |
+| ----------------- | ----------------------------------------------------------------- |
+| Black and White   | [Link](https://mdblist.com/lists/kingkearney/black-and-white)     |
+| Dark Fantasy      | [Link](https://mdblist.com/lists/rizreflects/dark-fantasy-movies) |
+| Noir              | [Link](https://mdblist.com/lists/rizreflects/film-noir)           |
+| Neo-noir          | [Link](https://mdblist.com/lists/rizreflects/neo-noir)            |
+| Visually Pleasing | [Link](https://mdblist.com/lists/rizreflects/visually-stunning)   |
+
+### Animation
+
+| Microgenre                                      | MDBList Link                                                                           |
+| ----------------------------------------------- | -------------------------------------------------------------------------------------- |
+| Children's Animated Movies (From 1950 to Today) | [Link](https://mdblist.com/lists/hdlists/latest-hd-animated-movies-from-1980-to-today) |
+| DreamWorks Movie Collection                     | [Link](https://mdblist.com/lists/hdlists/dreamworks-movie-collection)                  |
+| Hand-drawn Animation                            | [Link](https://mdblist.com/lists/rizreflects/hand-drawn-animation)                     |
+| Pixar Movies                                    | [Link](https://mdblist.com/lists/hdlists/pixar-movie-collection)                       |
+| Studio Ghibli                                   | [Link](https://mdblist.com/lists/foulou/ghibli)                                        |
+
+### Comedy Subgenres
+
+| Microgenre         | MDBList Link                                                       |
+| ------------------ | ------------------------------------------------------------------ |
+| Stoner Comedies    | [Link](https://mdblist.com/lists/slander2328/stoner-comedy-movies) |
+| Slapstick Comedies | [Link](https://mdblist.com/lists/rizreflects/slapstick-comedies)   |
+| Stand-Up Comedies  | [Link](https://mdblist.com/lists/snikay/best-standup)              |
+
+### Documentary Subgenres
+
+| Microgenre                           | MDBList Link                                                                   |
+| ------------------------------------ | ------------------------------------------------------------------------------ |
+| Based On or Inspired By a True Story | [Link](https://mdblist.com/lists/hdlists/based-on-or-inspired-by-a-true-story) |
+| Biopics                              | [Link](https://mdblist.com/lists/eli_burdette/biopics)                         |
+| Climbing Documentaries               | [Link](https://mdblist.com/lists/jahsi/climbing-docs)                          |
+| Documentary – Food (Docuseries)      | [Link](https://mdblist.com/lists/ahasson/docuseries-food)                      |
+| Nature Documentaries                 | [Link](https://mdblist.com/lists/Aegisnir/documentaries-nature-over-70)        |
+
+### Drama Subgenres
+
+| Microgenre       | MDBList Link                                                    |
+| ---------------- | --------------------------------------------------------------- |
+| Courtroom Dramas | [Link](https://mdblist.com/lists/rizreflects/courtroom-dramas)  |
+| Dialogue-Driven  | [Link](https://mdblist.com/lists/rizreflects/dialogue-driven)   |
+| Justice System   | [Link](https://mdblist.com/lists/k0meta/the-justice-system)     |
+| Legal Dramas     | [Link](https://mdblist.com/lists/lunaivy/legal-thriller-dramas) |
+| Political Dramas | [Link](https://mdblist.com/lists/rizreflects/political-dramas)  |
+
+### Horror Subgenres
+
+| Microgenre                      | MDBList Link                                                               |
+| ------------------------------- | -------------------------------------------------------------------------- |
+| Body Horrors                    | [Link](https://mdblist.com/lists/rizreflects/body-horrors)                 |
+| Christmas Horrors               | [Link](https://mdblist.com/lists/amything/christmas-horror)                |
+| Disaster Movies                 | [Link](https://mdblist.com/lists/rizreflects/disaster-movies)              |
+| Folk Horrors                    | [Link](https://mdblist.com/lists/rizreflects/folk-horrors)                 |
+| Found Footage                   | [Link](https://mdblist.com/lists/showtime416/found-footage-movies)         |
+| Giallo                          | [Link](https://mdblist.com/lists/danielbmarshall/giallo)                   |
+| Paranormal                      | [Link](https://mdblist.com/lists/j22kodi/paranormal)                       |
+| Serial Killers                  | [Link](https://mdblist.com/lists/rizreflects/serial-killers)               |
+| Slashers                        | [Link](https://mdblist.com/lists/jahsi/slashers)                           |
+| Stephen King Movies             | [Link](https://mdblist.com/lists/godzgiftmm/stephen-king-movies)           |
+| Survival Horror                 | [Link](https://mdblist.com/lists/j22kodi/survival-horror)                  |
+| Monsters, Creatures, and Beasts | [Link](https://mdblist.com/lists/godzgiftmm/monsters-creatures-and-beasts) |
+| Vampires                        | [Link](https://mdblist.com/lists/j22kodi/vampire-movies)                   |
+| Zombies                         | [Link](https://mdblist.com/lists/danj066/zombie-films)                     |
+
 ### Mind-Bending
 
 | Microgenre              | MDBList Link                                                          |
 | ----------------------- | --------------------------------------------------------------------- |
-| Trippy                  | [Link](https://mdblist.com/lists/rizreflects/trippy)                  |
-| Mindfuck Movies         | [Link](https://mdblist.com/lists/hdlists/mindfuck-movies)             |
-| Mindfuck Movies         | [Link](https://mdblist.com/lists/rizreflects/ultimate-mindfuck)       |
-| Plot Twists             | [Link](https://mdblist.com/lists/hdlists/crazy-plot-twists)           |
-| Thought-provoking       | [Link](https://mdblist.com/lists/rizreflects/thought-provoking)       |
-| Philosophical           | [Link](https://mdblist.com/lists/rizreflects/philosophical)           |
 | Experimental            | [Link](https://mdblist.com/lists/rizreflects/experimental-filmmaking) |
 | Experimental / Arthouse | [Link](https://mdblist.com/lists/nconnor/experimental)                |
+| Mindfuck Movies         | [Link](https://mdblist.com/lists/hdlists/mindfuck-movies)             |
+| Mindfuck Movies         | [Link](https://mdblist.com/lists/rizreflects/ultimate-mindfuck)       |
+| Philosophical           | [Link](https://mdblist.com/lists/rizreflects/philosophical)           |
+| Plot Twists             | [Link](https://mdblist.com/lists/hdlists/crazy-plot-twists)           |
+| Thought-provoking       | [Link](https://mdblist.com/lists/rizreflects/thought-provoking)       |
+| Trippy                  | [Link](https://mdblist.com/lists/rizreflects/trippy)                  |
 
 ### Sci-Fi / Space
 
@@ -103,92 +180,66 @@ A collection of movie lists from [MDBList](https://mdblist.com).
 | Outer Space & Space Exploration Movies | [Link](https://mdblist.com/lists/hdlists/outer-space-space-exploration-movies) |
 | Time Travel & Time Loops               | [Link](https://mdblist.com/lists/rizreflects/time-travel)                      |
 
-### Animation
+### Sports Subgenres
 
-| Microgenre                                      | MDBList Link                                                                           |
-| ----------------------------------------------- | -------------------------------------------------------------------------------------- |
-| Pixar Movies                                    | [Link](https://mdblist.com/lists/hdlists/pixar-movie-collection)                       |
-| DreamWorks Movie Collection                     | [Link](https://mdblist.com/lists/hdlists/dreamworks-movie-collection)                  |
-| Studio Ghibli                                   | [Link](https://mdblist.com/lists/foulou/ghibli)                                        |
-| Children's Animated Movies (From 1950 to Today) | [Link](https://mdblist.com/lists/hdlists/latest-hd-animated-movies-from-1980-to-today) |
-| Hand-drawn Animation                            | [Link](https://mdblist.com/lists/rizreflects/hand-drawn-animation)                     |
-
-### Documentary Subgenres
-
-| Microgenre                           | MDBList Link                                                                   |
-| ------------------------------------ | ------------------------------------------------------------------------------ |
-| Biopics                              | [Link](https://mdblist.com/lists/eli_burdette/biopics)                         |
-| Based On or Inspired By a True Story | [Link](https://mdblist.com/lists/hdlists/based-on-or-inspired-by-a-true-story) |
-| Documentary – Food (Docuseries)      | [Link](https://mdblist.com/lists/ahasson/docuseries-food)                      |
-| Climbing Documentaries               | [Link](https://mdblist.com/lists/jahsi/climbing-docs)                          |
-| Nature Documentaries                 | [Link](https://mdblist.com/lists/Aegisnir/documentaries-nature-over-70)        |
-
-### Horror Subgenres
-
-| Microgenre                      | MDBList Link                                                               |
-| ------------------------------- | -------------------------------------------------------------------------- |
-| Body Horrors                    | [Link](https://mdblist.com/lists/rizreflects/body-horrors)                 |
-| Disaster Movies                 | [Link](https://mdblist.com/lists/rizreflects/disaster-movies)              |
-| Folk Horrors                    | [Link](https://mdblist.com/lists/rizreflects/folk-horrors)                 |
-| Found Footage                   | [Link](https://mdblist.com/lists/showtime416/found-footage-movies)         |
-| Giallo                          | [Link](https://mdblist.com/lists/danielbmarshall/giallo)                   |
-| Paranormal                      | [Link](https://mdblist.com/lists/j22kodi/paranormal)                       |
-| Serial Killers                  | [Link](https://mdblist.com/lists/rizreflects/serial-killers)               |
-| Slashers                        | [Link](https://mdblist.com/lists/jahsi/slashers)                           |
-| Stephen King Movies             | [Link](https://mdblist.com/lists/godzgiftmm/stephen-king-movies)           |
-| Monsters, Creatures, and Beasts | [Link](https://mdblist.com/lists/godzgiftmm/monsters-creatures-and-beasts) |
-| Vampires                        | [Link](https://mdblist.com/lists/j22kodi/vampire-movies)                   |
-| Zombies                         | [Link](https://mdblist.com/lists/danj066/zombie-films)                     |
+| Microgenre | MDBList Link                                              |
+| ---------- | --------------------------------------------------------- |
+| Baseball   | [Link](https://mdblist.com/lists/j22kodi/baseball-movies) |
+| Boxing     | [Link](https://mdblist.com/lists/j22kodi/boxing-movies)   |
+| Football   | [Link](https://mdblist.com/lists/processphantom/football) |
+| Soccer     | [Link](https://mdblist.com/lists/amything/soccer-movies)  |
 
 ### Vibes
 
 | Microgenre                          | MDBList Link                                                                 |
 | ----------------------------------- | ---------------------------------------------------------------------------- |
 | Coming Of Age                       | [Link](https://mdblist.com/lists/galacticboy/coming-of-age)                  |
+| Cozy and Feelgood                   | [Link](https://mdblist.com/lists/thinredline/cozy-and-feelgood)              |
+| Easy Watches                        | [Link](https://mdblist.com/lists/chris_ha/light-easy-watches)                |
 | Feel-good                           | [Link](https://mdblist.com/lists/rizreflects/feel-good)                      |
+| Intense                             | [Link](https://mdblist.com/lists/rizreflects/intense)                        |
 | Jazz                                | [Link](https://mdblist.com/lists/tamarrindo/jazz)                            |
-| Stoner Comedies                     | [Link](https://mdblist.com/lists/slander2328/stoner-comedy-movies)           |
-| Slapstick Comedies                  | [Link](https://mdblist.com/lists/rizreflects/slapstick-comedies)             |
-| Quirky Indies                       | [Link](https://mdblist.com/lists/rizreflects/quirky-indie-movies)            |
-| Road Trip                           | [Link](https://mdblist.com/lists/jahsi/road-trip)                            |
 | Nostalgic Movies From The 80s & 90s | [Link](https://mdblist.com/lists/hdlists/nostalgiac-movies-from-the-80s-90s) |
-
-### Aesthetic
-
-| Microgenre        | MDBList Link                                                    |
-| ----------------- | --------------------------------------------------------------- |
-| Visually Pleasing | [Link](https://mdblist.com/lists/rizreflects/visually-stunning) |
-| Black and White   | [Link](https://mdblist.com/lists/kingkearney/black-and-white)   |
-| Noir              | [Link](https://mdblist.com/lists/rizreflects/film-noir)         |
-| Neo-noir          | [Link](https://mdblist.com/lists/rizreflects/neo-noir)          |
+| Road Trip                           | [Link](https://mdblist.com/lists/jahsi/road-trip)                            |
+| Quirky Indies                       | [Link](https://mdblist.com/lists/rizreflects/quirky-indie-movies)            |
 
 ### Other
 
 | Microgenre                        | MDBList Link                                                                     |
 | --------------------------------- | -------------------------------------------------------------------------------- |
-| Intense                           | [Link](https://mdblist.com/lists/rizreflects/intense)                            |
-| Heist Movies                      | [Link](https://mdblist.com/lists/hdlists/best-heist-movies-of-all-time)          |
-| Martial Arts                      | [Link](https://mdblist.com/lists/k0meta/martial-arts)                            |
-| Hallmark                          | [Link](https://mdblist.com/lists/SynAcksHM/hallmark)                             |
-| Dog Movies                        | [Link](https://mdblist.com/lists/rizreflects/dog-movies)                         |
-| Bollywood                         | [Link](https://mdblist.com/lists/rizreflects/bollywood-movies)                   |
-| Courtroom Dramas                  | [Link](https://mdblist.com/lists/rizreflects/courtroom-dramas)                   |
-| Dialogue-Driven                   | [Link](https://mdblist.com/lists/rizreflects/dialogue-driven)                    |
-| Food                              | [Link](https://mdblist.com/lists/rizreflects/foodie-movies)                      |
-| Legal Dramas                      | [Link](https://mdblist.com/lists/lunaivy/legal-thriller-dramas)                  |
 | B-Movies                          | [Link](https://mdblist.com/lists/siskourso/b-movies)                             |
+| Based on a Book                   | [Link](https://mdblist.com/lists/k0meta/based_on_books_movies)                   |
+| Based on a Comic Book             | [Link](https://mdblist.com/lists/mulanzo1/based-on-comic-books)                  |
+| Bollywood                         | [Link](https://mdblist.com/lists/rizreflects/bollywood-movies)                   |
+| Dog Movies                        | [Link](https://mdblist.com/lists/rizreflects/dog-movies)                         |
+| Food                              | [Link](https://mdblist.com/lists/rizreflects/foodie-movies)                      |
+| Hallmark                          | [Link](https://mdblist.com/lists/SynAcksHM/hallmark)                             |
 | Low Budget Movies                 | [Link](https://mdblist.com/lists/nathyg99/low-budget-movies)                     |
 | Movies That Take Place in One Day | [Link](https://mdblist.com/lists/awesomeaustn/movies-that-take-place-in-one-day) |
+| Slow Cinema                       | [Link](https://mdblist.com/lists/jornviggo/slow-cinema)                          |
+
+## Format
+
+| Format       | MDBList Link                                                    |
+| ------------ | --------------------------------------------------------------- |
+| 4k Movies    | [Link](https://mdblist.com/lists/j22kodi/4k-movies)             |
+| 70mm         | [Link](https://mdblist.com/lists/jarvis-15299542/70mm)          |
+| Dolby Vision | [Link](https://mdblist.com/lists/mertens21/dolby-vision-movies) |
+| IMAX         | [Link](https://mdblist.com/lists/jasons003/imax)                |
 
 ## Locations
 
-| Location    | MDBList Link                                                    |
-| ----------- | --------------------------------------------------------------- |
-| Australia   | [Link](https://mdblist.com/lists/tvdown/australia-movies-all)   |
-| Chicago     | [Link](https://mdblist.com/lists/slugfest201/chicago)           |
-| Los Angeles | [Link](https://mdblist.com/lists/oldmankestis/los-angeles)      |
-| New York    | [Link](https://mdblist.com/lists/oldmankestis/new-york)         |
-| New Zealand | [Link](https://mdblist.com/lists/tvdown/new-zealand-all-movies) |
+| Location    | MDBList Link                                                                |
+| ----------- | --------------------------------------------------------------------------- |
+| Australia   | [Link](https://mdblist.com/lists/tvdown/australia-movies-all)               |
+| Chicago     | [Link](https://mdblist.com/lists/slugfest201/chicago)                       |
+| China       | [Link](https://mdblist.com/lists/jarvis-15299542/chinese-cinema-v8g2mh1ja2) |
+| Germany     | [Link](https://mdblist.com/lists/jason-postrel/top-rated-german-movies)     |
+| Japan       | [Link](https://mdblist.com/lists/amything/top-100-japanese-movies)          |
+| Los Angeles | [Link](https://mdblist.com/lists/oldmankestis/los-angeles)                  |
+| New York    | [Link](https://mdblist.com/lists/oldmankestis/new-york)                     |
+| New Zealand | [Link](https://mdblist.com/lists/tvdown/new-zealand-all-movies)             |
+| Ukraine     | [Link](https://mdblist.com/lists/etwd13/ukrainian-movies-zc0hse516v)        |
 
 ## Seasonal & Holiday Movies
 
